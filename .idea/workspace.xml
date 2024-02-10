@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66d70b82-f5c2-4622-ab25-065a2aebea17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mysite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/wsgi.py" afterDir="false" />
-    </list>
+    <list default="true" id="66d70b82-f5c2-4622-ab25-065a2aebea17" name="Changes" comment="Το πρώτο μου commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +28,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
@@ -87,11 +78,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707535403902</updated>
-      <workItem from="1707535414828" duration="147000" />
+      <workItem from="1707535414828" duration="456000" />
     </task>
+    <task id="LOCAL-00001" summary="Το πρώτο μου commit">
+      <option name="closed" value="true" />
+      <created>1707535632550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707535632550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Το πρώτο μου commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Το πρώτο μου commit" />
   </component>
 </project>
